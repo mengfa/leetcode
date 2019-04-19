@@ -57,8 +57,8 @@
       <file leaf-file-name="821.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/821.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="250">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -185,7 +185,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="66" />
-    <option name="y" value="51" />
+    <option name="y" value="96" />
     <option name="width" value="1852" />
     <option name="height" value="869" />
   </component>
@@ -364,7 +364,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="51" width="1852" height="869" extended-state="1" />
+    <frame x="66" y="96" width="1852" height="869" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -720,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/821.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="250">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
