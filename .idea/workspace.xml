@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="35835bf3-c2af-45dd-8351-c5ee719d9bf7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="35835bf3-c2af-45dd-8351-c5ee719d9bf7" name="Default" comment="" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +22,10 @@
     <SUITE FILE_PATH="coverage/leetcode$mergeTwoLists.coverage" NAME="mergeTwoLists Coverage Results" MODIFIED="1553164364629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/node" />
     <SUITE FILE_PATH="coverage/leetcode$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1554112175018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$isValidBST2.coverage" NAME="isValidBST2 Coverage Results" MODIFIED="1553496095745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
+<<<<<<< HEAD
+=======
+    <SUITE FILE_PATH="coverage/leetcode$977__Squares_of_a_Sorted_Array.coverage" NAME="977. Squares of a Sorted Array Coverage Results" MODIFIED="1554862639215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
     <SUITE FILE_PATH="coverage/leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1554099453568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$11.coverage" NAME="11 Coverage Results" MODIFIED="1554260971906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geekbang" />
     <SUITE FILE_PATH="coverage/leetcode$miss.coverage" NAME="miss Coverage Results" MODIFIED="1554274688510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -26,12 +34,19 @@
     <SUITE FILE_PATH="coverage/leetcode$191.coverage" NAME="191 Coverage Results" MODIFIED="1554275606416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$f.coverage" NAME="f Coverage Results" MODIFIED="1553242276961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="2 Coverage Results" MODIFIED="1553157395080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/leetcode$rob.coverage" NAME="rob Coverage Results" MODIFIED="1553499972411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+=======
+    <SUITE FILE_PATH="coverage/leetcode$821.coverage" NAME="821 Coverage Results" MODIFIED="1555315891686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$rob.coverage" NAME="rob Coverage Results" MODIFIED="1553499972411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/leetcode$po.coverage" NAME="po Coverage Results" MODIFIED="1554953854441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
     <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1552972234532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$isValidBST.coverage" NAME="isValidBST Coverage Results" MODIFIED="1553495690254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tree" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="firstBadVersion.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sort/firstBadVersion.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
@@ -46,51 +61,137 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="23" />
+=======
+      <file leaf-file-name="po.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/po.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="16" />
+              <folding>
+                <element signature="e#165#195#0" expanded="true" />
+              </folding>
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="703.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/703.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
+=======
+      <file leaf-file-name="345.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/345.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="821.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/821.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+=======
+      <file leaf-file-name="yake.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yake.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="709. To Lower Case.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/709. To Lower Case.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="TwoSum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TwoSum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
               <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+=======
+      <file leaf-file-name="1. Two Sum.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. Two Sum.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="11.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/geekbang/11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
               <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+=======
+      <file leaf-file-name="179. Largest Number.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/179. Largest Number.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="miss.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/miss.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
               <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+=======
+      <file leaf-file-name="292. Nim Game.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/292. Nim Game.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="557. Reverse Words in a String III.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/557. Reverse Words in a String III.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web_develop/venv/lib/python3.6/site-packages/poco/drivers/std/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-73">
+              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
             </state>
           </provider>
         </entry>
@@ -136,6 +237,13 @@
         <option value="$PROJECT_DIR$/miss.py" />
         <option value="$PROJECT_DIR$/1.py" />
         <option value="$PROJECT_DIR$/191.py" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/977. Squares of a Sorted Array.py" />
+        <option value="$PROJECT_DIR$/po.py" />
+        <option value="$PROJECT_DIR$/yake.py" />
+        <option value="$PROJECT_DIR$/821.py" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       </list>
     </option>
   </component>
@@ -148,11 +256,19 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="67" />
     <option name="y" value="23" />
     <option name="width" value="1852" />
     <option name="height" value="984" />
+=======
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="66" />
+    <option name="y" value="96" />
+    <option name="width" value="1852" />
+    <option name="height" value="869" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -202,27 +318,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.191">
     <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekbang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekbang/11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+=======
+  <component name="RunManager" selected="Python.821">
     <configuration name="191" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,18 +332,76 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekbang" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekbang/11.py" />
+=======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191.py" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
+    <configuration name="191" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="821" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/821.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="977. Squares of a Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/977. Squares of a Sorted Array.py" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+<<<<<<< HEAD
     <configuration name="TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="miss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,13 +414,21 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoSum.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miss.py" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="miss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="po" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,6 +441,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -293,12 +462,16 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/po.py" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.test" />
       <item itemvalue="Python.TwoSum" />
       <item itemvalue="Python.11" />
@@ -312,6 +485,21 @@
         <item itemvalue="Python.11" />
         <item itemvalue="Python.TwoSum" />
         <item itemvalue="Python.test" />
+=======
+      <item itemvalue="Python.miss" />
+      <item itemvalue="Python.191" />
+      <item itemvalue="Python.977. Squares of a Sorted Array" />
+      <item itemvalue="Python.po" />
+      <item itemvalue="Python.821" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.821" />
+        <item itemvalue="Python.po" />
+        <item itemvalue="Python.977. Squares of a Sorted Array" />
+        <item itemvalue="Python.191" />
+        <item itemvalue="Python.miss" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       </list>
     </recent_temporary>
   </component>
@@ -329,23 +517,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="67" y="23" width="1852" height="984" extended-state="0" />
     <editor active="true" />
+=======
+    <frame x="66" y="96" width="1852" height="869" extended-state="1" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.30552423" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32807216" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2552486" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2525907" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3976684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25801104" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990981" />
+=======
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36787564" />
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -362,7 +564,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/sort/firstBadVersion.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -447,6 +655,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
     <entry file="file://$PROJECT_DIR$/node/reverseList.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -599,6 +809,79 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/list/Valid Parentheses.ipynb" />
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/sort/firstBadVersion.ipynb">
+=======
+    <entry file="file://$PROJECT_DIR$/../web_develop/venv/lib/python3.6/heapq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="167" column="4" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/703.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwoSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geekbang/images/sort.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sort.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1470197326/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="3642" column="8" selection-start-line="3642" selection-start-column="8" selection-end-line="3642" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/263. Ugly Number.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/977. Squares of a Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geekbang/11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sort/firstBadVersion.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -606,6 +889,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/list/isValid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web_develop/venv/lib/python3.6/site-packages/poco/pocofw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="217" column="8" selection-start-line="217" selection-start-column="8" selection-end-line="217" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web_develop/venv/lib/python3.6/site-packages/poco/drivers/std/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/704. Binary Search.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yake.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/709. To Lower Case.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Two Sum.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/179. Largest Number.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/292. Nim Game.ipynb">
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/list/isValid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -665,6 +1013,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/557. Reverse Words in a String III.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/po.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#165#195#0" expanded="true" />
+          </folding>
+>>>>>>> ac77fe759fe60ee03869f1f484cda96202084022
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/345.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/821.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
