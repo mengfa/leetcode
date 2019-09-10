@@ -22,7 +22,11 @@ print(cheap)
 
 
 
+import heapq
 
+stones = [1,2,3,4,5]
+
+print(heapq.nlargest(2, stones))
 
 
 
